@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 3280-B3C1
-
- Directory of C:\Users\sgamaleldeen\Documents\Git Projects\MyProject1
-
-08/15/2022  11:41 AM    <DIR>          .
-08/15/2022  11:41 AM    <DIR>          ..
-08/15/2022  11:41 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  328,637,878,272 bytes free
+Change 1
